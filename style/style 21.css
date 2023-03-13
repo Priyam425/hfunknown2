@@ -1,0 +1,11 @@
+*{
+    background-color:bisque;
+
+}
+#sec1{
+    position:relative;
+    top:200px;
+    left:300px;
+    width: 1000px;
+   
+}
